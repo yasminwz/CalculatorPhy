@@ -14,8 +14,8 @@ if operation == 1:
     print("The result is:", sum)
 
 if operation == 2:
-    subtracao = int(num1 - num2)
-    print("The result is:")
+    sub = int(num1 - num2)
+    print("The result is:", sub)
 
 if operation == 3:
     div = int(num1 / num2)
