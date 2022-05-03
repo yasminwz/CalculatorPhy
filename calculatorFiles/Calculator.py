@@ -2,10 +2,10 @@ num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
 
 print("Choise an operation")
-print("1 = sum")
-print("2 = subtraction")
-print("3 = division")
-print("4 = multiplication")
+print("1 = sum ")
+print("2 = subtraction ")
+print("3 = division ")
+print("4 = multiplication ")
 
 operation = int((input("Enter the operation: ")))
 
